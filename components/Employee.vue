@@ -28,12 +28,12 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 .txt-wrapper {
   display: flex;
   margin-top: 50px;
   justify-content: center;
   align-items: center;
-  padding: 20px 190px;
   @media only screen and (max-width: 768px) {
     padding: 0;
     width: 100%;
@@ -58,10 +58,11 @@ h5 {
 .third-column {
   text-align: center;
   flex-direction: row;
-  padding: 50px 60px;
+  padding: 10px;
   height: auto;
-  width: 25%;
+  width: 20%;
   align-self: stretch;
+  align-items: center;
   @media only screen and (max-width: 768px) {
     padding: 20px 40px;
     width: 100%;

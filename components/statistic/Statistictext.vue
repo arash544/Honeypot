@@ -35,7 +35,8 @@ export default {
   display: flex;
   width: 50%;
   flex-direction: column;
-  padding: 50px 50px 100px 550px;
+  // padding: 50px 50px 100px 550px;
+  padding-left: 100px;
 
   @media only screen and (max-width: 768px) {
     width: 100%;

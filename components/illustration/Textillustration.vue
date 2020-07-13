@@ -16,6 +16,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 .wrap {
   display: flex;
   width: 45%;
@@ -34,7 +35,6 @@ export default {
   }
 }
 p {
-  padding-right: 400px;
   color: gray;
   margin-top: 0px;
   font-weight: 450;

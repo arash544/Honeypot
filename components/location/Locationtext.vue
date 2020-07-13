@@ -23,6 +23,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+
 .main-wrap {
   display: flex;
   flex-direction: row;
@@ -37,7 +38,7 @@ export default {
 .wrap {
   display: flex;
   width: 45%;
-  padding-left: 300px;
+  padding-left: 100px;
   flex-direction: column;
   padding-bottom: 100px;
   justify-content: center;

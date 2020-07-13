@@ -41,7 +41,7 @@ export default {
   }
 }
 h2 {
-  padding: 20px 550px;
+  padding: 150px;
   text-align: center;
   font-weight: 400;
   @media only screen and (max-width: 768px) {

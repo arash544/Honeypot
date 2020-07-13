@@ -34,7 +34,6 @@ export default {
   }
 }
 p {
-  padding-right: 400px;
   color: gray;
   margin-top: 0px;
   font-weight: 450;

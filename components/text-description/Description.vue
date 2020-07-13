@@ -31,7 +31,7 @@ export default {
   flex-wrap: wrap;
 }
 h2 {
-  padding: 20px 420px;
+  padding: 150px;
   text-align: center;
   font-weight: 400;
   @media only screen and (max-width: 768px) {
